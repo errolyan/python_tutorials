@@ -1,0 +1,5 @@
+LOAD CSV FROM 'file:///data.csv' AS row
+MERGE (e:Employee {employeeId: row.Id})
+UNWIND split(row.skills, ',') AS skill
+MERGE (s:Skill {name: skill})
+MERGE (e)-[r:HAS_EXPERIENCE]->(s);

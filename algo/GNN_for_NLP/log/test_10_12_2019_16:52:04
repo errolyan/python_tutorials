@@ -1,0 +1,18 @@
+2019-12-10 16:52:04,985 - test_10_12_2019_16:52:04 - [INFO] - {'lr': 0.01, 'gcn_dim': 16, 'log_dir': './log/', 'data': 'cora', 'name': 'test_10_12_2019_16:52:04', 'l2': 0.0005, 'restore': False, 'seed': 1234, 'opt': 'adam', 'max_epochs': 200, 'model_dir': './models/', 'gpu': '0', 'config_dir': './config/', 'dropout': 0.5, 'save_dir': './models//test_10_12_2019_16:52:04'}
+2019-12-10 16:52:05,273 - tensorflow - [WARNING] - From /Users/yanerrol/anaconda3/envs/py3/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-12-10 16:52:05,312 - tensorflow - [WARNING] - From /Users/yanerrol/Desktop/GNNs-for-NLP/tf_gcn.py:120: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-12-10 16:52:05,322 - tensorflow - [WARNING] - From /Users/yanerrol/Desktop/GNNs-for-NLP/tf_gcn.py:191: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+2019-12-10 16:52:05,384 - tensorflow - [WARNING] - From /Users/yanerrol/anaconda3/envs/py3/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.

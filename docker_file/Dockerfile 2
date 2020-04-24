@@ -1,0 +1,19 @@
+FROM python:3.6-alpine
+
+WORKDIR /app
+
+# Install dependencies.
+# ADD requirements.txt /app
+# RUN cd /app && \
+RUN  pip install -r requirements.txt
+
+# Add actual source code.
+ADD blockchain.py /app
+
+EXPOSE 5000
+
+CMD ["python", "blockchain.py", "--port", "5000"]
+
+
+# docker build -t antif:v1.0 .
+# docker run -it -d -v -p 9999:9999 --name antif antif:v1.0

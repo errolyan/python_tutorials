@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: zh-core-web-sm
+Version: 2.0.5
+Summary: Chinese multi-task CNN trained on OntoNotes, with GloVe vectors trained on Common Crawl. Assigns word vectors, context-specific token vectors, POS tags, dependency parse and named entities.
+Home-page: https://xiaoquankong.ai
+Author: Xiaoquan Kong
+Author-email: u1mail2me@gmail.com
+License: CC BY-SA 3.0
+Description: UNKNOWN
+Platform: UNKNOWN

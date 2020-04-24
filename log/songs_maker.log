@@ -1,0 +1,10 @@
+2020-01-10 23:36:52,680 songs generations server INFO ------get request data------
+2020-01-10 23:36:52,680 songs generations server INFO ------get request data id=100------
+2020-01-10 23:36:52,680 songs generations server INFO ------get request data id=100 name=yan------
+2020-01-10 23:36:52,680 songs generations server INFO ------get request data audiostatus=1 wav_path=/root.wav------
+2020-01-10 23:36:52,680 songs generations server INFO ------get request data id=100 wav_path=/root.wav audio_status=1------
+2020-01-10 23:37:56,884 songs generations server INFO ------get request data------
+2020-01-10 23:37:56,884 songs generations server INFO ------get request data id=100------
+2020-01-10 23:37:56,884 songs generations server INFO ------get request data id=100 name=yan------
+2020-01-10 23:37:56,884 songs generations server INFO ------get request data audiostatus=1 wav_path='/root.wav'------
+2020-01-10 23:37:56,885 songs generations server INFO ------get request data id=100 wav_path='/root.wav' audio_status=1------

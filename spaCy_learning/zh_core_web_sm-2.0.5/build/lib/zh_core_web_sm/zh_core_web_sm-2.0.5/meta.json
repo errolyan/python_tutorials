@@ -1,0 +1,31 @@
+{
+  "lang":"zh",
+  "pipeline":[
+    "tagger",
+    "parser",
+    "ner"
+  ],
+  "accuracy":{
+  },
+  "name":"core_web_sm",
+  "license":"CC BY-SA 3.0",
+  "author":"Xiaoquan Kong",
+  "url":"https://xiaoquankong.ai",
+  "vectors":{
+    "width":128,
+    "vectors":413092,
+    "keys":413092,
+    "name": "vocab.vectors"
+  },
+  "sources":[
+    "OntoNotes 5",
+    "Common Crawl"
+  ],
+  "version":"2.0.5",
+  "spacy_version":">=2.0.0a18",
+  "parent_package":"spacy",
+  "speed":{
+  },
+  "email":"u1mail2me@gmail.com",
+  "description":"Chinese multi-task CNN trained on OntoNotes, with GloVe vectors trained on Common Crawl. Assigns word vectors, context-specific token vectors, POS tags, dependency parse and named entities."
+}

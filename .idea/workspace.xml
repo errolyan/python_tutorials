@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8bd36b9-9957-442f-b75a-5e896c9812fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Deep_learning/ML-NLP/Machine Learning/5.3 Topic Model/HillaryEmails.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/0document/lihang-code" />
+  </component>
+  <component name="JupyterTrust" id="a19bbac4-1f35-4816-a4b4-d6112fefa3e1" />
+  <component name="ProjectId" id="1aBuVSqWgx6kSD2M4A1DZsPmsjj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.linear_regression">
+    <configuration name="audio_signal_hanling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python3_Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/madmom_tutoral" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/madmom_tutoral/audio_signal_hanling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python3_Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/linear_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/linear_regression/linear_regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pandas_50_tips" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python3_Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/pandas_50_tips.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="processor_tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python3_Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/madmom_tutoral" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/madmom_tutoral/processor_tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in try_except.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python3_Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try_except" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/try_except/try_except.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.linear_regression" />
+        <item itemvalue="Python.pandas_50_tips" />
+        <item itemvalue="Python.processor_tutorial" />
+        <item itemvalue="Python.audio_signal_hanling" />
+        <item itemvalue="Python tests.pytest in try_except.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8bd36b9-9957-442f-b75a-5e896c9812fb" name="Default Changelist" comment="" />
+      <created>1586221331784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586221331784</updated>
+      <workItem from="1587144527866" duration="1797000" />
+      <workItem from="1587192664313" duration="7516000" />
+      <workItem from="1587362166021" duration="767000" />
+      <workItem from="1587567817163" duration="2390000" />
+      <workItem from="1587606587516" duration="1460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1245" height="221" key="GridCell.Tab.0.bottom" timestamp="1587626457930">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state width="906" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1587195390705" />
+    <state width="1245" height="221" key="GridCell.Tab.0.bottom/1920.-534.3360.1867/5280.546.1920.1057/25.23.1895.1177@25.23.1895.1177" timestamp="1587626457930" />
+    <state width="1092" height="611" key="GridCell.Tab.0.bottom/25.23.1895.1177@25.23.1895.1177" timestamp="1587570275080" />
+    <state width="1245" height="221" key="GridCell.Tab.0.center" timestamp="1587626457930">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state width="906" height="360" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1587195390703" />
+    <state width="1245" height="221" key="GridCell.Tab.0.center/1920.-534.3360.1867/5280.546.1920.1057/25.23.1895.1177@25.23.1895.1177" timestamp="1587626457930" />
+    <state width="1092" height="611" key="GridCell.Tab.0.center/25.23.1895.1177@25.23.1895.1177" timestamp="1587570275079" />
+    <state width="1245" height="221" key="GridCell.Tab.0.left" timestamp="1587626457929">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state width="906" height="360" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1587195390703" />
+    <state width="1245" height="221" key="GridCell.Tab.0.left/1920.-534.3360.1867/5280.546.1920.1057/25.23.1895.1177@25.23.1895.1177" timestamp="1587626457929" />
+    <state width="1092" height="611" key="GridCell.Tab.0.left/25.23.1895.1177@25.23.1895.1177" timestamp="1587570275078" />
+    <state width="1245" height="221" key="GridCell.Tab.0.right" timestamp="1587626457930">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state width="906" height="360" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1587195390704" />
+    <state width="1245" height="221" key="GridCell.Tab.0.right/1920.-534.3360.1867/5280.546.1920.1057/25.23.1895.1177@25.23.1895.1177" timestamp="1587626457930" />
+    <state width="1092" height="611" key="GridCell.Tab.0.right/25.23.1895.1177@25.23.1895.1177" timestamp="1587570275079" />
+    <state width="1092" height="396" key="GridCell.Tab.1.bottom" timestamp="1587369383009">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state width="1092" height="396" key="GridCell.Tab.1.bottom/1920.-534.3360.1867/5280.546.1920.1057/25.23.1895.1177@25.23.1895.1177" timestamp="1587369383009" />
+    <state width="1092" height="396" key="GridCell.Tab.1.center" timestamp="1587369383008">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state width="1092" height="396" key="GridCell.Tab.1.center/1920.-534.3360.1867/5280.546.1920.1057/25.23.1895.1177@25.23.1895.1177" timestamp="1587369383008" />
+    <state width="1092" height="396" key="GridCell.Tab.1.left" timestamp="1587369383008">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state width="1092" height="396" key="GridCell.Tab.1.left/1920.-534.3360.1867/5280.546.1920.1057/25.23.1895.1177@25.23.1895.1177" timestamp="1587369383008" />
+    <state width="1092" height="396" key="GridCell.Tab.1.right" timestamp="1587369383009">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state width="1092" height="396" key="GridCell.Tab.1.right/1920.-534.3360.1867/5280.546.1920.1057/25.23.1895.1177@25.23.1895.1177" timestamp="1587369383009" />
+    <state x="832" y="268" key="SettingsEditor" timestamp="1587191859799">
+      <screen x="25" y="23" width="1895" height="1177" />
+    </state>
+    <state x="832" y="268" key="SettingsEditor/25.23.1895.1177@25.23.1895.1177" timestamp="1587191859799" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python3_Tutorials$pytest_in_try_except_py.coverage" NAME="pytest in try_except.py Coverage Results" MODIFIED="1587362427411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try_except" />
+    <SUITE FILE_PATH="coverage/python3_Tutorials$audio_signal_hanling.coverage" NAME="audio_signal_hanling Coverage Results" MODIFIED="1587568149244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/madmom_tutoral" />
+    <SUITE FILE_PATH="coverage/python3_Tutorials$autograd_demo.coverage" NAME="autograd_demo Coverage Results" MODIFIED="1587191849023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/torch_tutorial" />
+    <SUITE FILE_PATH="coverage/python3_Tutorials$.coverage" NAME="拼接 Coverage Results" MODIFIED="1587195390695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/python3_Tutorials$processor_tutorial.coverage" NAME="processor_tutorial Coverage Results" MODIFIED="1587570275064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/madmom_tutoral" />
+    <SUITE FILE_PATH="coverage/python3_Tutorials$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1587626069861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/linear_regression" />
+    <SUITE FILE_PATH="coverage/python3_Tutorials$pandas_50_tips.coverage" NAME="pandas_50_tips Coverage Results" MODIFIED="1587606642081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+  </component>
+</project>
