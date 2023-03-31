@@ -1,5 +1,5 @@
 # python3-Tutorials
-
+blog(博客） : https://errol.blog.csdn.net/
 ## python_Base
 ## data_structure
 ## tensorflow_Tutorials
